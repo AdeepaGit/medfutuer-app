@@ -1,0 +1,63 @@
+.header{
+    text-align: center;
+    color: #112B53;
+    font-family: Roboto;
+    font-size: 66px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 84px; /* 127.273% */
+    text-transform: capitalize;
+    padding-top: 145px;
+}
+.postsCard{
+    margin-left: 100px;
+}
+.fcarousel{
+    padding-top: 164px;
+}
+.featuer_card1{
+   
+    width: 509px;
+}
+.card{
+    width: 509.506px;
+    
+    flex-shrink: 0;
+}
+.detaibody{
+    padding-left: 8px;
+    padding-top: 18px;
+}
+.card-view{
+    color: #B4B1B1;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.card-text{
+    color: #2E4465;
+    font-family: Roboto;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 38px; /* 146.154% */
+    text-transform: capitalize;
+}
+.morebtn{
+    width: 97.441px;
+    height: 24.627px;
+    flex-shrink: 0;
+    
+}
+.morebtn-txt{
+    color: #2E4465;
+font-family: Roboto;
+font-size: 19px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: capitalize;
+margin-top: 33px;
+}

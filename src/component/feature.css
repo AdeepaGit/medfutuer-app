@@ -1,0 +1,106 @@
+.main-content{
+    width: 1440px;
+    height: 1024px;
+}
+.featureSidebar{
+    width: 271.187px;
+    height: 1035.326px;
+    flex-shrink: 0;
+    background-color: #D9D9D9;
+}
+.fmenu{
+    
+    left: 77.43px;
+    padding-top: 56.96px;
+    width: 76px;
+    height: 51px;
+    color: #112B53;
+    font-family: Roboto;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 51px; /* 170% */
+    text-transform: capitalize;
+    position: absolute;
+}
+
+.postcontent{
+    padding-top:56.96px;
+    padding-left: 115.75px;
+}
+
+.fhedding{
+    
+    color: #112B53;
+    font-family: Roboto;
+    font-size: 33px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 51px; /* 154.545% */
+    text-transform: capitalize;
+    
+}
+.tile{color: #2E4465;
+    font-family: Roboto;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 51px; /* 242.857% */
+    text-transform: capitalize;
+    width: 610.897px;
+    height: 58.561px;
+    flex-shrink: 0;
+    border: 1px solid #BABABA;
+    background: #FFF;
+    position: absolute;
+    top: 148.78px;
+}
+    
+    .category{
+    color: #2E4465;
+    font-family: Roboto;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 51px; /* 242.857% */
+    text-transform: capitalize;
+    width: 610.897px;
+    height: 58.561px;
+    flex-shrink: 0;
+    border: 1px solid #BABABA;
+    background: #FFF;
+    position: absolute;
+    top: 248.16px;
+}
+.textarea{
+    width: 610.897px;
+    height: 509.533px;
+    border: 1px solid #BABABA;
+    background: #FFF;
+    color: #2E4465;
+    font-family: Roboto;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 51px; /* 242.857% */
+    text-transform: capitalize;
+    position: absolute;
+    top: 347.54px;
+}
+.button{
+    width: 150.21px;
+    height: 46.303px;
+    flex-shrink: 0;
+    background: #001B46;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 141.176% */
+    text-transform: capitalize;
+    position: absolute;
+    top: 893.73px;
+    left: 821.73px;
+    border: none;
+}

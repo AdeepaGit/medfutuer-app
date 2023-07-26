@@ -1,0 +1,44 @@
+.footer_content{
+    width: 1920px;
+    height: 712px;
+    background-image:url('../Images/Footer_section/footerBg.png')!important;
+    position: absolute;
+}
+.medlogo{
+    
+    top: 74px;
+    left: 172px;
+    position: absolute;
+    
+}
+.media{
+    top:191.04px;
+    left: 172px;
+    position: absolute;
+}
+.media ul{
+    display: flex;
+    margin: auto;
+    padding: 0;
+ 
+}
+.media li{
+    list-style-type: none;
+    margin: 0;
+    padding-right: 26px;
+   
+}
+.fcontet{
+    color: #EBEDEF;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 175% */
+    letter-spacing: -0.16px;
+    
+}
+.Copyrights{
+
+    bottom: 300px;
+}

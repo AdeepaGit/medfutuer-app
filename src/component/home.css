@@ -1,0 +1,376 @@
+.topics{
+    width: 1925.58px;
+    height: 85.71px;
+    
+    position: absolute;
+    background: rgb(251, 251, 251);
+}
+
+.topics_content{
+    left: 106.9px;
+    top: 31.35px;
+    position: absolute;
+    color: rgb(17, 43, 83);
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 400;
+    text-transform: capitalize;
+    overflow-wrap: break-word;
+}
+.topic_menu {
+    float:right;
+    top: 23.64px;
+    padding-top: 23.64px;
+    padding-right: 140px;
+  }
+  .topic_menu ul {
+    display: flex;
+    padding: 0;
+    left: 850.76px;
+  }
+  .topic_menu li {
+    
+    list-style-type: none;
+    margin: 0 0.875rem;
+    width: 189px;
+    height: 40.18px;
+    left: 0px;
+    padding-top: 9.59px;
+    background: white;
+    border-radius: 35px;
+    border: 0.5px solid rgb(145, 162, 188);
+    text-align: center;
+    color: rgba(3, 19, 44, 0.86);
+    font-size: 18px;
+    font-family: Roboto;
+    font-weight: 400;
+    text-transform: capitalize;
+    overflow-wrap: break-word;
+  }
+  .arrow{
+   
+    width: 37px;
+    height: 37px;
+    left: 829.55px;
+    top: 62.07px;
+    position: absolute;
+    transform: rotate(-180deg);
+    transform-origin: 0px 0px 0px;
+    background-image: url('../Images/arrowright.png')!important;
+  }
+  .arrow_right{
+   
+    width: 37px;
+    height: 37px;
+    left: 1791.58px;
+    top: 25.07px;
+    position: absolute;
+    background-image: url('../Images/arrowright.png')!important;
+  }
+
+ .carousel_Content {
+    width: 1920px;
+    height: 760.31px;
+    left: 0px;
+    top: 206.64px;
+    position: absolute !important;
+    
+  }
+  .carousel_txt1{
+    left: 97px;
+    top: 165.77px;
+    position: absolute;
+    color: white;
+    font-size: 25px;
+    font-family: Roboto;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.75px;
+    overflow-wrap: break-word;
+  }
+  .carousel_txt2{
+    left: 97.32px;
+    top:215.22px;
+    position: absolute;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 74px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 84px; /* 113.514% */
+    text-transform: capitalize;
+  }
+  
+  .carousel_txt3{
+    left: 97.32px;
+    top: 415.22px;
+    position: absolute;
+    color: white;
+    font-size: 30px;
+    font-family: Roboto;
+    font-weight: 400;
+    text-transform: capitalize;
+    overflow-wrap: break-word
+  }
+  .knomButton{
+    width: 170px;
+height: 50px;
+left: 97px;
+top: 512.23px;
+position: absolute;
+  }
+  .knomButton_wrapper{
+    width: 170px;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: white;
+    border-radius: 1px;
+  }
+  .knomButton_content{
+    width: 97.44px;
+height: 24.63px;
+left: 36.28px;
+top: 12.69px;
+position: absolute;
+color: rgb(0, 27, 70);
+font-size: 19px;
+font-family: Roboto;
+font-weight: 400;
+text-transform: capitalize;
+overflow-wrap: break-word;
+    
+  }
+  .carousel-control-next-icon{
+    background-image: url('../Images/arrowsliderright.png')!important;
+    width: 71px;
+    height: 71px;
+    flex-shrink: 0;
+  }
+  .carousel-control-next-icon, .carousel-control-prev-icon {
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 100% 100%;
+  }
+  .jobBox{  width: 794.25px;
+    height: 250.66px;
+    left: 1025.75px;
+    top: 842.55px;
+    position: absolute;
+    background-color:#F8F8F8;
+  }
+  .jobBox{  
+    
+    left: 1025px;
+    position: absolute !important;
+  }
+  .carousel-item{
+    position: relative;
+    display: none;
+    float: left;
+    width: 100%;
+    margin-right: -100%;
+    backface-visibility: hidden;
+    transition: transform .6s ease-in-out;
+  }
+  .carousel-caption{position: absolute;
+    right: 15%;
+    bottom: 1.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+  }
+  .jobtxt1{
+    padding-top: 35px;
+    padding-left: 71px;
+    color: #112B53;
+    font-family: Roboto;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 38px; /* 126.667% */
+    text-transform: capitalize;
+    position: absolute;
+  }
+  .jobtxt2{
+    padding-top: 94px;
+    padding-left:71px ;
+    color: #2E4465;
+    font-family: Roboto;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 38px; /* 146.154% */
+    text-transform: capitalize;
+    
+  }
+  .jobtxt3{
+    padding-top: 19px;
+    padding-left:71px ;
+    color: #2E4465;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 38px; /* 211.111% */
+    text-transform: capitalize;
+    
+
+  }
+  
+  .carousel-indicators{
+    position: none !important;
+    display: flex ;
+    left: -578px !important;
+    justify-content: center;
+    padding: 210 0 0 0px !important;
+    margin-right: 15%;
+    margin-bottom: 1rem;
+    bottom: -60px !important;
+    margin-top: 210px !important;
+    color: darkgray;
+    
+  }
+  .featuredPost{
+    top: 1090px;
+    width: 1920px;
+    position: absolute;
+  }
+  .cover{
+    width: 1920px;
+    height: 706.86px;
+    
+    top: 2243.98px;
+    position: absolute;
+    background-image: url('../Images/parallaBg.png')!important;
+   
+  }
+  .coverContent{
+    width: 1545px;
+    margin-left: 187px;
+    
+  }
+  .cover-heading{
+    width: 1545px;
+    top:244px;
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 46px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 68px; /* 147.826% */
+    text-transform: capitalize;
+    position: absolute;
+  }
+  .subButton{
+    width: 170px;
+    height: 50px;
+    left: 878.92px;
+    top: 2687.46px;
+    position: absolute;
+}
+.subButton_wrapper{
+    width: 170px;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: white;
+    border-radius: 1px;
+}
+.subButton_content{
+    width: 86.38px;
+height: 24.63px;
+left: 41.81px;
+top: 12.69px;
+position: absolute;
+color: rgb(0, 27, 70);
+font-size: 19px;
+font-family: Roboto;
+font-weight: 400;
+text-transform: capitalize;
+overflow-wrap: break-word;
+}
+
+.staticSec{
+  top: 2949px;
+  position: absolute;
+  width: 1920px;
+  display: inline;
+}
+.ststHeader{
+  text-align: center;
+  color: #112B53;
+  font-family: Roboto;
+  font-size: 66px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 84px; /* 127.273% */
+  text-transform: capitalize;
+  
+  padding-top: 141px;
+  
+}
+.statcard{
+  margin-left: 82.28px;
+  margin-right: 82.28px;
+}
+.satcard{
+  padding-top: 164px;
+  
+  margin: 0 17.72 0 17.72px;
+}
+
+.stdetaibody{
+  padding-left: 8px;
+  padding-top: 18px;
+  margin: 0 84 0 84px;
+}
+.card-view{
+  color: #B4B1B1;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-top: 18.4px;
+}
+.card-text{
+  color: #2E4465;
+  font-family: Roboto;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 38px; /* 146.154% */
+  text-transform: capitalize;
+}
+.morebtn{
+  width: 97.441px;
+  height: 24.627px;
+  flex-shrink: 0;
+  
+}
+.morebtn-txt{
+  color: #2E4465;
+font-family: Roboto;
+font-size: 19px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: capitalize;
+margin-top: 33px;
+}
+.footersection{
+  top: 3986px;
+  
+  position: absolute;
+  width: 1920px;
+  height: 712px;
+ 
+  
+}
